@@ -1,0 +1,2 @@
+# hibtest
+Hibernate Test
